@@ -1,0 +1,15 @@
+numpy
+scipy
+matplotlib
+ipython
+casadi
+shapely
+cvxopt
+plotly
+networkx
+sympy
+pandas
+pygraphviz
+jax
+hj-reachability==0.7.0
+pypolycontain @ git+https://github.com/sadraddini/pypolycontain.git
